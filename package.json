@@ -1,0 +1,31 @@
+{
+  "name": "wonderfulbarn",
+  "version": "1.0.0",
+  "description": "Code for wonderful barn pop up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoonfishTheatre/wonderfulbarn.git"
+  },
+  "keywords": [
+    "popup",
+    "theatre",
+    "code",
+    "history",
+    "1916",
+    "moonfish"
+  ],
+  "author": "Moonfish Theatre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoonfishTheatre/wonderfulbarn/issues"
+  },
+  "homepage": "https://github.com/MoonfishTheatre/wonderfulbarn#readme",
+  "dependencies": {
+    "johnny-five": "^0.9.30",
+    "shelljs": "^0.6.0"
+  }
+}
