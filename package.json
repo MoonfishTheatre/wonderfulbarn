@@ -26,6 +26,7 @@
   "homepage": "https://github.com/MoonfishTheatre/wonderfulbarn#readme",
   "dependencies": {
     "johnny-five": "^0.9.30",
+    "player": "^0.6.1",
     "shelljs": "^0.6.0"
   }
 }
